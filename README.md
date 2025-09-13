@@ -5,9 +5,9 @@ Today I Learned - DBA, Cloud, Programming
 
 ## 📚 カテゴリー
 - [Database/DBA](./database/)
-- [Cloud](./cloud/)  
-- [Programming](./programming/)
-- [Tools & Tips](./tools/)
+- [Cloud](./cloud/) --今後追加予定
+- [Programming](./programming/)　--今後追加予定
+- [others](./others/)
 
 ## 📖 How to Use
 各カテゴリ内のファイルは日付順で整理しています。
